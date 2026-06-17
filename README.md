@@ -102,26 +102,6 @@ Building tools powered by AI to automate repetitive tasks and improve productivi
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashTupe22&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YashTupe22&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -153,6 +133,10 @@ Building tools powered by AI to automate repetitive tasks and improve productivi
 
 <a href="https://www.linkedin.com/in/yashtupe22">
 <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/YashTupe.22">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="https://twitter.com/YashTupe22">
