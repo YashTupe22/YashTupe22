@@ -4,7 +4,7 @@
 
 ### AI & ML Student • Web Developer • Automation Designer • Entrepreneur
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Full+Stack+Web+Developer;Automation+Designer;Founder+of+Applixwear;Building+Digital+Products+and+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Full+Stack+Web+Developer;Automation+Designer;Founder+of+Synplix+Infotech;EX+CFO+at+interjob;CTO+and+COO+for+Applix+Wears;Building+Digital+Products+and+Solutions" alt="Typing SVG" />
 
 ![](https://komarev.com/ghpvc/?username=YashTupe22&color=blueviolet&style=for-the-badge)
 
